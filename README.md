@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Sandri07
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  aprender novas tecnologias;
+- 🌱 I’m currently learning  comandos de programação;
+- 💞️ I’m looking to collaborate on  ajustar o pefil dos meus aluno;
+- 📫 How to reach me 
 
-<!---
-Sandri07/Sandri07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
